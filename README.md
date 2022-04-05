@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @starcrafter1345
-- 👀 I’m interested in programming MCU's on C++
-- 🌱 I’m currently learning Electronics step by step from Robert Svoren
+- 👀 
+- 🌱 
 - 📫 How to reach me on my discord profile Starcrafter1#1629
 
 <!---
